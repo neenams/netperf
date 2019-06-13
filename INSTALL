@@ -34,7 +34,7 @@ may remove or edit it.
    The file `configure.ac' (or `configure.in') is used to create
 `configure' by a program called `autoconf'.  You only need
 `configure.ac' if you want to change it or regenerate `configure' using
-a newer version of `autoconf'.
+a newer version of `autogen'.
 
 The simplest way to compile this package is:
 
